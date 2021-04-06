@@ -1,4 +1,4 @@
-# ezocr
+# Download EZ-OCR
 The easiest way to do OCR on Windows.
 
 Download Here:
