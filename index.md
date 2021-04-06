@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# EZ-OCR Application Page
+## EZ-OCR Information
 
-You can use the [editor on GitHub](https://github.com/BouncyBird/ezocr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+EZ-OCR is the easiest way to images and screenshots to text. Note that EZ-OCR only works on Windows.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/66702878/113760164-86e39c80-96db-11eb-9aa4-7466639dc670.png)
 
-### Markdown
+You can either upload an image, or take a screenshot.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+EZ-OCR uses the open-source Tesseract OCR engine.
 
-```markdown
-Syntax highlighted code block
+## Download EZ-OCR
 
-# Header 1
-## Header 2
-### Header 3
+EZ-OCR is downloadable through an exe file.
 
-- Bulleted
-- List
+The EZ-OCR exe file is over GitHub's 25mb limit, so the file is hosted on [MEGA](https://mega.io/)
 
-1. Numbered
-2. List
+[Download Here](https://mega.nz/file/7DJVwCQJ#SyfGDCY8xKQvG50w6kfJcdMeAxP5DJ8RtnSPUyDHWoM)
 
-**Bold** and _Italic_ and `Code` text
+## Source Code
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BouncyBird/ezocr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Source Code](https://github.com/BouncyBird/ezocr/blob/main/EZOCR.py)
