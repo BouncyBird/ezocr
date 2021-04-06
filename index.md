@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="dIuXgD6hyiyfFv5L9ZslYZQC2zamrDDbFBhQPi3UN-4" />
+<meta name="google-site-verification" content="F8Ufa_SpHQo4ghjjizetXA-5VN3SqYjXdZRCHhbX2t4" />
 
 # EZ-OCR Application Page
 ## EZ-OCR Information
